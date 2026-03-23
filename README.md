@@ -14,9 +14,9 @@
 *Building intelligent systems that ship to production.*
 
 [![Email](https://img.shields.io/badge/✉%20vishwajeetsinghrana8%40gmail.com-D94010?style=flat-square&logoColor=white)](mailto:vishwajeetsinghrana8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeetrana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18100A?style=flat-square&logo=googlechrome&logoColor=white)](https://vishwajeetrana.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/vishwajeetrana?style=flat-square&color=D94010&labelColor=18100A)](https://github.com/vishwajeetrana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwaai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18100A?style=flat-square&logo=googlechrome&logoColor=white)](https://vishwajeetsinghrana8.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/vishwajeetrana?style=flat-square&color=D94010&labelColor=18100A)](https://github.com/vishwajeetsinghrana8)
 
 </div>
 
@@ -263,8 +263,8 @@ Regression-based ML model predicting second-hand car prices from multi-source da
 *Open to Senior AI/ML Engineering roles, consulting engagements, and research collaborations.*
 
 [![Email Me](https://img.shields.io/badge/✉%20Email%20Me-D94010?style=for-the-badge)](mailto:vishwajeetsinghrana8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeetrana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18100A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishwajeetrana.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwaai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18100A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishwajeetsinghrana8.github.io)
 
 ---
 
