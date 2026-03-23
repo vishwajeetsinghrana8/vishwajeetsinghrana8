@@ -223,7 +223,7 @@ Regression-based ML model predicting second-hand car prices from multi-source da
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetrana&theme=minimal&color=D94010&line=D94010&point=18100A&area=true&area_color=D94010&bg_color=FBF8F2&border_color=D4C9B8)](https://github.com/vishwajeetrana)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetrana&theme=minimal&color=D94010&line=D94010&point=18100A&area=true&area_color=D94010&bg_color=FBF8F2&border_color=D4C9B8)](https://github.com/vishwajeetsinghrana8)
 
 </div>
 
