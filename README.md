@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝   ╚═╝   
 ```
 
-### `Vishwajeet Singh Rana` — Senior Lead AI/ML Engineer
+### `Vishwajeet Singh Rana` — AI/ML Solution Architect
 
 *Building intelligent systems that ship to production.*
 
